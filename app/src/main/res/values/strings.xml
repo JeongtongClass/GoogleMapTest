@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Google Maps Android API Example</string>
+    <string name="map_key" translatable="false">AIzaSyCndiGd7QCa_WkovcTVs48NoRGGGZSdNOk</string>
+    <string name="add_location_Button">장소 추가하기</string>
+</resources>

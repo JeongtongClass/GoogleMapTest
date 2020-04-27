@@ -1,0 +1,2 @@
+rootProject.name='Google Maps Android API Example'
+include ':app'
